@@ -1,0 +1,6 @@
+c:\users\ronaldo\documents\visual studio 2015\Projects\Rede\Rede\bin\Debug\Rede.exe.config
+c:\users\ronaldo\documents\visual studio 2015\Projects\Rede\Rede\obj\Debug\Rede.csprojResolveAssemblyReference.cache
+c:\users\ronaldo\documents\visual studio 2015\Projects\Rede\Rede\bin\Debug\Rede.exe
+c:\users\ronaldo\documents\visual studio 2015\Projects\Rede\Rede\bin\Debug\Rede.pdb
+c:\users\ronaldo\documents\visual studio 2015\Projects\Rede\Rede\obj\Debug\Rede.exe
+c:\users\ronaldo\documents\visual studio 2015\Projects\Rede\Rede\obj\Debug\Rede.pdb
